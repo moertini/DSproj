@@ -1,1 +1,3 @@
 Tambah file2 di lokal
+Baris 2
+Baris 3
