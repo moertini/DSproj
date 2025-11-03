@@ -2,4 +2,5 @@ Tambah file2 di lokal
 Baris 2
 Baris 3
 baris 4 di local
+Dito nambah 1 baris di lokal
 
