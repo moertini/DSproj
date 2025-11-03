@@ -1,2 +1,3 @@
 Tambah file 1 di lokal
 Tambah 1 baris di remote
+1 baris lagi di lokal
